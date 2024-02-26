@@ -1,8 +1,8 @@
-﻿using APICatalago.Models;
+﻿using APICatalogo.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Security.Cryptography.X509Certificates;
 
-namespace APICatalago.Context;
+namespace APICatalogo.Context;
 
 public class AppDbContext : DbContext {
 

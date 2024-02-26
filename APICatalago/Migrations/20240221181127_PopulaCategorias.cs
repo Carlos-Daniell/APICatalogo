@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace APICatalago.Migrations {
+namespace APICatalogo.Migrations {
     /// <inheritdoc />
     public partial class PopulaCategorias : Migration {
         /// <inheritdoc />

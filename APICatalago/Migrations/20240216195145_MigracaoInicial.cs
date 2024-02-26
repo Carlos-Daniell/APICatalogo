@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace APICatalago.Migrations
+namespace APICatalogo.Migrations
 {
     /// <inheritdoc />
     public partial class MigracaoInicial : Migration

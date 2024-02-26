@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace APICatalago.Models;
+namespace APICatalogo.Models;
 
 
 [Table("Produtos")]
